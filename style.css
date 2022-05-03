@@ -2,7 +2,7 @@
 html,
 body {
   font-family: 'Roboto Mono', monospace;
-  background: #212121;
+  background: #ffffff;
   height: 100%;
 }
 .container {
@@ -15,7 +15,7 @@ body {
 .text {
   font-weight: 100;
   font-size: 28px;
-  color: #fafafa;
+  color: #000000;
 }
 .dud {
   color: #757575;
